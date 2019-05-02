@@ -1,0 +1,68 @@
+{
+	"cards": [
+		{
+			"title": "Best Buy",
+        	"date": "10/10/2019",
+        	"code": "1234568912345678912",
+        	"nip": "1234567890",
+        	"price": 20,
+        	"imageCard": "https://www.gannett-cdn.com/-mm-/752f4d33638aafc3953f59f33f4e0aa996175cad/c=110-0-772-498/local/-/media/2018/04/18/USATODAY/USATODAY/636596669293144926-BBY-on-blue-1.jpg?width=540&height=405&fit=crop",
+		},
+		{
+			"title": "Gandhi",
+        	"date": "10/10/2019",
+        	"code": "1234568912345678912",
+        	"nip": "1234567890",
+        	"price": 20,
+        	"imageCard": "https://www.gannett-cdn.com/-mm-/752f4d33638aafc3953f59f33f4e0aa996175cad/c=110-0-772-498/local/-/media/2018/04/18/USATODAY/USATODAY/636596669293144926-BBY-on-blue-1.jpg?width=540&height=405&fit=crop",
+		},
+		{
+			"title": "Apple",
+        	"date": "10/10/2019",
+        	"code": "1234568912345678912",
+        	"nip": "1234567890",
+        	"price": 20,
+        	"imageCard": "https://www.gannett-cdn.com/-mm-/752f4d33638aafc3953f59f33f4e0aa996175cad/c=110-0-772-498/local/-/media/2018/04/18/USATODAY/USATODAY/636596669293144926-BBY-on-blue-1.jpg?width=540&height=405&fit=crop",
+		},
+		{
+			"title": "Youtube",
+        	"date": "10/10/2019",
+        	"code": "1234568912345678912",
+        	"nip": "1234567890",
+        	"price": 20,
+        	"imageCard": "https://www.gannett-cdn.com/-mm-/752f4d33638aafc3953f59f33f4e0aa996175cad/c=110-0-772-498/local/-/media/2018/04/18/USATODAY/USATODAY/636596669293144926-BBY-on-blue-1.jpg?width=540&height=405&fit=crop",
+		},
+		{
+			"title": "Spotify",
+        	"date": "10/10/2019",
+        	"code": "1234568912345678912",
+        	"nip": "1234567890",
+        	"price": 20,
+        	"imageCard": "https://www.gannett-cdn.com/-mm-/752f4d33638aafc3953f59f33f4e0aa996175cad/c=110-0-772-498/local/-/media/2018/04/18/USATODAY/USATODAY/636596669293144926-BBY-on-blue-1.jpg?width=540&height=405&fit=crop",
+		},
+		{
+			"title": "Netflix",
+        	"date": "10/10/2019",
+        	"code": "1234568912345678912",
+        	"nip": "1234567890",
+        	"price": 20,
+        	"imageCard": "https://www.gannett-cdn.com/-mm-/752f4d33638aafc3953f59f33f4e0aa996175cad/c=110-0-772-498/local/-/media/2018/04/18/USATODAY/USATODAY/636596669293144926-BBY-on-blue-1.jpg?width=540&height=405&fit=crop",
+		},
+		{
+			"title": "Chilli's",
+        	"date": "10/10/2019",
+        	"code": "1234568912345678912",
+        	"nip": "1234567890",
+        	"price": 20,
+        	"imageCard": "https://www.gannett-cdn.com/-mm-/752f4d33638aafc3953f59f33f4e0aa996175cad/c=110-0-772-498/local/-/media/2018/04/18/USATODAY/USATODAY/636596669293144926-BBY-on-blue-1.jpg?width=540&height=405&fit=crop",
+		},
+		{
+			"title": "Burger King",
+        	"date": "10/10/2019",
+        	"code": "1234568912345678912",
+        	"nip": "1234567890",
+        	"price": 20,
+        	"imageCard": "https://www.gannett-cdn.com/-mm-/752f4d33638aafc3953f59f33f4e0aa996175cad/c=110-0-772-498/local/-/media/2018/04/18/USATODAY/USATODAY/636596669293144926-BBY-on-blue-1.jpg?width=540&height=405&fit=crop",
+		},
+	]
+}
